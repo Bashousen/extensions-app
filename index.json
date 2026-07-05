@@ -4154,10 +4154,10 @@
   {
     "name": "Aniyomi: DarkMahou",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.darkmahou",
-    "apk": "aniyomi-pt.darkmahou-v14.7.apk",
+    "apk": "aniyomi-pt.darkmahou-v14.8.apk",
     "lang": "pt-BR",
-    "code": 7,
-    "version": "14.7",
+    "code": 8,
+    "version": "14.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4166,7 +4166,7 @@
         "name": "DarkMahou (Torrent)",
         "lang": "pt-BR",
         "id": "59748104323952005",
-        "baseUrl": "https://darkmahou.org",
+        "baseUrl": "https://darkmahou.io",
         "versionId": 1
       }
     ]
