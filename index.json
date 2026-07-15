@@ -4354,10 +4354,10 @@
   {
     "name": "Aniyomi: SmartAnimes",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.smartanimes",
-    "apk": "aniyomi-pt.smartanimes-v14.6.apk",
+    "apk": "aniyomi-pt.smartanimes-v14.7.apk",
     "lang": "pt-BR",
-    "code": 6,
-    "version": "14.6",
+    "code": 7,
+    "version": "14.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
