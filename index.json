@@ -3892,46 +3892,6 @@
     ]
   },
   {
-    "name": "Aniyomi: AnimesBr",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesbr",
-    "apk": "aniyomi-pt.animesbr-v14.5.apk",
-    "lang": "pt-BR",
-    "code": 5,
-    "version": "14.5",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Animes BR",
-        "lang": "pt-BR",
-        "id": "3000709501394043899",
-        "baseUrl": "https://animesbr.tv",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: Animes CX",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animescx",
-    "apk": "aniyomi-pt.animescx-v14.2.apk",
-    "lang": "pt-BR",
-    "code": 2,
-    "version": "14.2",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Animes CX",
-        "lang": "pt-BR",
-        "id": "3718439836617642466",
-        "baseUrl": "https://animescx.com.br",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: Animes Digital",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesdigital",
     "apk": "aniyomi-pt.animesdigital-v14.7.apk",
@@ -3967,26 +3927,6 @@
         "lang": "pt-BR",
         "id": "6170414613821552199",
         "baseUrl": "https://animesdrive.online",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: Animes Games",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesgames",
-    "apk": "aniyomi-pt.animesgames-v14.5.apk",
-    "lang": "pt-BR",
-    "code": 5,
-    "version": "14.5",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Animes Games",
-        "lang": "pt-BR",
-        "id": "6519826467833124450",
-        "baseUrl": "https://animesgames.cc",
         "versionId": 1
       }
     ]
@@ -4047,46 +3987,6 @@
         "lang": "pt-BR",
         "id": "6962698096138673113",
         "baseUrl": "https://animesonline.cloud",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: AnimesOnlineVip",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesonlinevip",
-    "apk": "aniyomi-pt.animesonlinevip-v14.5.apk",
-    "lang": "pt-BR",
-    "code": 5,
-    "version": "14.5",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Animes Online Vip",
-        "lang": "pt-BR",
-        "id": "533096643049014020",
-        "baseUrl": "https://animesonlinefhd.vip",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: AnimeCore",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesotaku",
-    "apk": "aniyomi-pt.animesotaku-v14.5.apk",
-    "lang": "pt-BR",
-    "code": 5,
-    "version": "14.5",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Anime Core",
-        "lang": "pt-BR",
-        "id": "9099608567050495800",
-        "baseUrl": "https://animecore.net",
         "versionId": 1
       }
     ]
@@ -4207,46 +4107,6 @@
         "lang": "pt-BR",
         "id": "1190488322033769414",
         "baseUrl": "https://donghuanosekai.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: Doramogo",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.doramogo",
-    "apk": "aniyomi-pt.doramogo-v14.8.apk",
-    "lang": "pt-BR",
-    "code": 8,
-    "version": "14.8",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Doramogo",
-        "lang": "pt-BR",
-        "id": "913841527115486600",
-        "baseUrl": "https://doramogo.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: Fun Anime TV",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.funanimetv",
-    "apk": "aniyomi-pt.funanimetv-v14.1.apk",
-    "lang": "pt-BR",
-    "code": 1,
-    "version": "14.1",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Fun Anime TV",
-        "lang": "pt-BR",
-        "id": "7920607630206318931",
-        "baseUrl": "https://betterclass.click",
         "versionId": 1
       }
     ]
@@ -4387,26 +4247,6 @@
         "lang": "pt-BR",
         "id": "3082275639294081311",
         "baseUrl": "https://sushianimes.com.br",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: Tomato",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.tomato",
-    "apk": "aniyomi-pt.tomato-v14.3.apk",
-    "lang": "pt-BR",
-    "code": 3,
-    "version": "14.3",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Tomato",
-        "lang": "pt-BR",
-        "id": "3298973071492789784",
-        "baseUrl": "https://edge.betomato.com",
         "versionId": 1
       }
     ]
