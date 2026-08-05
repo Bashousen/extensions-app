@@ -4194,10 +4194,10 @@
   {
     "name": "Aniyomi: Pi Fansubs",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.pifansubs",
-    "apk": "aniyomi-pt.pifansubs-v14.26.apk",
+    "apk": "aniyomi-pt.pifansubs-v14.27.apk",
     "lang": "pt-BR",
-    "code": 26,
-    "version": "14.26",
+    "code": 27,
+    "version": "14.27",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
